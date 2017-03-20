@@ -1,0 +1,2 @@
+# GenericsExamples
+C# Generics examples
